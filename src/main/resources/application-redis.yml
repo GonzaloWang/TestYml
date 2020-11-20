@@ -1,4 +1,0 @@
-spring:
-  redis:
-    host: ly-redis
-    password: ww19971214
